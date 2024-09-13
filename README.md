@@ -33,6 +33,3 @@ This project is a **Music Reactive LED Strip**, where an LED strip changes color
 - Add different lighting modes based on beat detection.
 - Implement mobile app control for the LED strip.
 
-## License
-
-This project is licensed under the MIT License.
