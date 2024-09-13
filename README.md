@@ -18,7 +18,6 @@ This project is a **Music Reactive LED Strip**, where an LED strip changes color
 
 ## Project Files
 
-- **Code**: [Link to code file]
 - **Circuit Diagram**: [Link to schematic]
 - **PCB Design**: [If applicable, link to design files]
 
