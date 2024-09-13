@@ -1,1 +1,1 @@
-# MusicReactiveLedStrip
+# Music-Reactive-Led-Strip
